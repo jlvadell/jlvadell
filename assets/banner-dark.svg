@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title description">
+  <title id="title">200 OK You found me.</title>
+  <desc id="description">Navy background, white and pale blue lettering, and Jose Vadell’s yellow four-point star framed by blue circles.</desc>
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="280" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="280" fill="#1e2732"/>
+    <circle cx="1000" cy="140" r="188" fill="none" stroke="#3a414b"/>
+    <circle cx="1000" cy="140" r="142" fill="none" stroke="#688cc5" stroke-opacity="0.55"/>
+    <circle cx="1000" cy="140" r="102" fill="#688cc5"/>
+    <path d="M20 0 26 16 40 24 26 31 20 48 14 31 0 24 14 16Z" transform="translate(930 56) scale(3.5)" fill="#f9da43"/>
+    <text x="64" y="116" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="74" font-weight="600" letter-spacing="-2.5">200 OK</text>
+    <text x="64" y="207" fill="#a7c4ef" font-family="Georgia, 'Times New Roman', serif" font-size="80" font-style="italic" letter-spacing="-2">You found me.</text>
+  </g>
+</svg>
